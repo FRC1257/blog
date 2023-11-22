@@ -2,6 +2,8 @@
 
 Team 1257's blog.
 
+Run with `bundle exec jekyll serve`.
+
 # Chirpy Starter
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
